@@ -11,7 +11,7 @@
 ---
 
 <p align='center'>
-This is the Admin dashboard of TomperWear build with MERN stack and deployed with <a href='https://www.netlify.com/' target='_blank'>Netlify</a>
+This is the Admin dashboard of Badgers build with MERN stack and deployed with <a href='https://www.netlify.com/' target='_blank'>Netlify</a>
 </p>
 
 <p align='center'>
@@ -26,7 +26,7 @@ This is the Admin dashboard of TomperWear build with MERN stack and deployed wit
 
 ## 🧾 Description
 
-TomperWear is an E-commerce platform for small bussiness owners who want to expand their bussiness by providing an online purchase solution to their customers.
+Badgers is an E-commerce platform for small bussiness owners who want to expand their bussiness by providing an online purchase solution to their customers.
 
 ## ✨ Features
 
@@ -48,7 +48,7 @@ Users shopping through this platform enjoys following features:
 
 #### Admin
 
-The admin panel of TomperWear contains three classes of admins:
+The admin panel of Badgers contains three classes of admins:
 
 **1. Super privileged admin**
 Super privileged admins are the topmost in the hierarchy. They have the following permissions:
